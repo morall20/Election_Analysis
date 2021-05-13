@@ -23,5 +23,7 @@ The total number of votes for each candidate goes as follows.
 -	Raymon Anthony Doane received 3.1% totaling 11,606 of the votes.
 -	The final tally of votes determine that Diane DeGotte received the most votes and is the projected winner of the congressional elections.
 
+![Result totals](https://user-images.githubusercontent.com/82338072/118181330-a1f5aa80-b405-11eb-886e-b0506ee4cdbe.PNG)
+
 ## Election Audit Summary
 The script used to determine this final election results is a simple but robust platform that can easily be modified to perform other statewide taskings like census calculations by demographics and counties or school budgeting proposals based on school population and failure rate.     
