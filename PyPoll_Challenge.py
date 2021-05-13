@@ -97,7 +97,7 @@ with open(file_to_load) as election_data:
              
          # 6e: Save the county votes to a text file.
             txt_file.write(county_results)
-                       
+            print(county_results)          
          # 6f: Write an if statement to determine the winning county and get its vote count.
             if (votes > high_county_votes):
                 winning_county= county 
